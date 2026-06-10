@@ -10,4 +10,4 @@
 
 
 ### 섹션3. 스카폴드, 핫와이어, GEM 맛보기 
-+ <a href="">8. 스카폴드 Scaffold 분석 - CRUD 교과서</a>
++ <a href="https://github.com/pan6603/learn-rails8-indiehackers/blob/main/%EC%84%B9%EC%85%983/8.%20%EC%8A%A4%EC%B9%B4%ED%8F%B4%EB%93%9C%20Scaffold%20%EB%B6%84%EC%84%9D%20-%20CRUD%20%EA%B5%90%EA%B3%BC%EC%84%9C.md">8. 스카폴드 Scaffold 분석 - CRUD 교과서</a>
