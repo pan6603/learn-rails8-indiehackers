@@ -10,4 +10,4 @@
 
 
 ### 섹션3. 스카폴드, 핫와이어, GEM 맛보기 
-<a href="">8. 스카폴드 Scaffold 분석 - CRUD 교과서</a>
++ <a href="">8. 스카폴드 Scaffold 분석 - CRUD 교과서</a>
